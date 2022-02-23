@@ -1,0 +1,5 @@
+#ignora todos los archivos que terminen en .svg
+*.svg
+
+#ignora todos los archivos que terminen en .png
+*.png
